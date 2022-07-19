@@ -52,6 +52,7 @@ h5{
     line-height: 1em;
 } 
 
+
 .nav-bar{
     background-color: rgb(25, 33, 41);
     
@@ -138,4 +139,27 @@ h5{
 #team img {
     width: 250px;
     height: 180px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.9em;
+}
+
+.address{
+    font-style: normal;
+    font-size: 0.8em;
+}
+
+.footer a{
+    text-decoration: none;
+    color: rgb(67, 163, 230);
+
+}
+
+.footer ul{
+    
+    list-style-type: none;
 }
