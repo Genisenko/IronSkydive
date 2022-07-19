@@ -142,10 +142,9 @@ h5{
 }
 
 .footer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
     font-size: 1.9em;
+    margin: 0;
 }
 
 .address{
@@ -162,4 +161,10 @@ h5{
 .footer ul{
     
     list-style-type: none;
+    padding-inline-start: 0px;
+    margin: 0;
+
+}
+
+
 }
